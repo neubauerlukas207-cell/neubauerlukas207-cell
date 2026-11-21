@@ -5,6 +5,8 @@
 | [fitbook-insights](https://github.com/neubauerlukas207-cell/fitbook-insights) | Python, FastAPI, scikit-learn |
 | [pathfinding-visualizer](https://neubauerlukas207-cell.github.io/pathfinding-visualizer/) | TypeScript, Canvas, Playwright |
 | [cnb-rates-pipeline](https://neubauerlukas207-cell.github.io/cnb-rates-pipeline/) | Python, SQLite, GitHub Actions |
+| [cedr-db](https://github.com/neubauerlukas207-cell/cedr-db) | Java, B+ strom, SQL |
+| [lumen-lang](https://neubauerlukas207-cell.github.io/lumen-lang/) | TypeScript, interpret |
 | [portfolio](https://neubauerlukas207-cell.github.io) | TypeScript, React |
 | [pjp-compiler](https://github.com/neubauerlukas207-cell/pjp-compiler) | C, flex, bison |
 | [android-apps](https://github.com/neubauerlukas207-cell/android-apps) | Java, Android |
