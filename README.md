@@ -3,6 +3,8 @@
 | [fitbook-api](https://github.com/neubauerlukas207-cell/fitbook-api) | Java, Spring Boot, PostgreSQL |
 | [fitbook-admin](https://github.com/neubauerlukas207-cell/fitbook-admin) | C#, ASP.NET Core, EF Core |
 | [fitbook-insights](https://github.com/neubauerlukas207-cell/fitbook-insights) | Python, FastAPI, scikit-learn |
+| [pathfinding-visualizer](https://neubauerlukas207-cell.github.io/pathfinding-visualizer/) | TypeScript, Canvas, Playwright |
+| [cnb-rates-pipeline](https://neubauerlukas207-cell.github.io/cnb-rates-pipeline/) | Python, SQLite, GitHub Actions |
 | [portfolio](https://neubauerlukas207-cell.github.io) | TypeScript, React |
 | [pjp-compiler](https://github.com/neubauerlukas207-cell/pjp-compiler) | C, flex, bison |
 | [android-apps](https://github.com/neubauerlukas207-cell/android-apps) | Java, Android |
