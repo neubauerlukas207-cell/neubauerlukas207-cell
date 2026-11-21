@@ -12,8 +12,8 @@ Systém pro fitness centrum ze tří služeb ve třech jazycích. Každá má te
 
 ```mermaid
 flowchart LR
-    A["FitBook Admin<br/><sub>C# · ASP.NET Core 8</sub>"] -- REST --> B["FitBook API<br/><sub>Java · Spring Boot 4</sub>"]
-    B -- REST --> C["FitBook Insights<br/><sub>Python · FastAPI · scikit-learn</sub>"]
+    A["FitBook Admin<br/>C# / ASP.NET Core"] -- REST --> B["FitBook API<br/>Java / Spring Boot"]
+    B -- REST --> C["FitBook Insights<br/>Python / scikit-learn"]
     B --- D[("PostgreSQL")]
 ```
 
